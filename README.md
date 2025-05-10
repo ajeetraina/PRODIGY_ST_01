@@ -69,7 +69,7 @@ Contributions to expand the test suite are welcome! Please feel free to submit a
 MIT License
 
 ## 👨‍💻 Author
-Ajeet Raina & Contributors
+Arsheen Kour
 
 ---
 
