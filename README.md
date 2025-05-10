@@ -32,7 +32,7 @@ Our test cases thoroughly examine the calculator's behavior with:
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ajeetraina/PRODIGY_ST_01.git
+   git clone https://github.com/arsheenkour/PRODIGY_ST_01.git
    cd PRODIGY_ST_01
    ```
 
